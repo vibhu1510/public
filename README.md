@@ -1,5 +1,4 @@
-# public
-For sharing live demos
+
 
 # AI-Assisted Security Analytics Demo (Snowflake)
 
